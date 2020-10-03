@@ -27,3 +27,6 @@ Command to execute Model.py:-
 python Model.py
 
 And, you have to include the dataset for the given problem (Image Quality Detection) as it is.
+
+--Details about given program.
+I have created 2 models using 2 different libraries (Tensorflow & Scikit-Learn) in both of them I have used Neural Network
