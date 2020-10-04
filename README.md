@@ -1,5 +1,5 @@
 # Image-Quality-Detection
-Deep learning based computer vision project to check whether if image is blurred or not. Using CERTH Image Dataset to achieve 83% accuracy.
+Deep learning based computer vision project to check whether if image is blurred or not. Using CERTH Image Blur Dataset to achieve 83% accuracy.
 CERTH Image Blur Dataset
 
     E. Mavridaki, V. Mezaris, "No-Reference blur assessment in natural images using Fourier transform and spatial pyramids", Proc. IEEE International Conference on Image Processing (ICIP 2014), Paris, France, October 2014.
