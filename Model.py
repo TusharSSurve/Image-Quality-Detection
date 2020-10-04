@@ -16,7 +16,7 @@ X_train = scalar.fit_transform(X_train)
 X_test = scalar.transform(X_test)
 
 
-# Using Scikit-Learn 
+# Using Scikit-Learn MLPClassifier
 mlp = MLPClassifier(hidden_layer_sizes=(13,16),max_iter=500,random_state=42)
 mlp.fit(X_train,y_train)
 predictions = mlp.predict(X_test)
