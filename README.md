@@ -8,6 +8,9 @@ The dataset consists of undistorted, naturally-blurred and artificially-blurred 
 
 Unzip and load the files into a directory named CERTH_ImageBlurDataset.
 
+--Theory behind variance of laplacian:-
+https://stackoverflow.com/questions/48319918/whats-the-theory-behind-computing-variance-of-an-image
+
 --How to install necessary libraries to run in given programs in either Linux or windows:-
 
 pip install tensorflow
